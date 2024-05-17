@@ -26,6 +26,8 @@ Uniinovation é uma plataforma inovadora desenvolvida para aplicativo voltado pa
 
 ## Contribuições
 Contribuições são bem-vindas. Se você quiser melhorar este projeto, sinta-se à vontade para enviar pull requests ou relatar problemas.
+### Como Contribuir
+Este projeto é distribuído sob licença Uniinovation.
    
 ## Licença
 Uniinovation Projec.
