@@ -23,6 +23,9 @@ Uniinovation é uma plataforma inovadora desenvolvida para aplicativo voltado pa
 4. -se de que as bibliotecas verifiquem se MySql.Data estão corretamente configuradas.
 5. Compile e execute o aplicativo.
 6. Comece a cadastrar funcionarios, clientes e registrar.
+
+## Contribuições
+Contribuições são bem-vindas. Se você quiser melhorar este projeto, sinta-se à vontade para enviar pull requests ou relatar problemas.
    
 ## Licença
-Uniinovation Projec
+Uniinovation Projec.
