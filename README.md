@@ -6,16 +6,16 @@ Uniinovation é uma plataforma inovadora desenvolvida para
 	A Uni lnnovation desenvolveu um aplicativo voltado para a área da saúde modernizando o atendimento hospitalar. Este projeto tem como objetivo aperfeiçoar toda a performance interna do sistema hospitalar, focado em agregar a tecnologia no sistema de saúde, a fim de agilizar o meio de comunicação entre os funcionários sobre os pacientes, exames, utensílios.
 
 ## Funcionalidades
-Cadastro de clientes com informações fornecidas.
-Registro de funcionarios, incluindo nome, endereço, entrada do paciente.
-Geração de relatórios de pacientes.
-Interface amigável usando Windows Forms para facilitar a usabilidade.
+- Cadastro de clientes com informações fornecidas.
+- Registro de funcionarios, incluindo nome, endereço, entrada do paciente.
+- Geração de relatórios de pacientes.
+- Interface amigável usando Windows Forms para facilitar a usabilidade.
 
 ### Requisitos
-Visual Studio (ou outro IDE C# compatível).
-Servidor MySQL para armazenar dados.
-Bibliotecas MySQL Connector para C# (MySql.Data).
-Windows Forms Designer para interface do usuário.
+- Visual Studio (ou outro IDE C# compatível).
+- Servidor MySQL para armazenar dados.
+- Bibliotecas MySQL Connector para C# (MySql.Data).
+- Windows Forms Designer para interface do usuário.
 
 ## Como usar
 1. Clone este repositório para o seu ambiente de desenvolvimento.
